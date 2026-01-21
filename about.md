@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me
 
-Welcome to my blog! This is where I share my thoughts, experiences, and insights on various topics.
+Welcome to Chaoqun's Log! This is where I share my thoughts, experiences, and insights on technology, machine learning, and various topics that interest me.
 
 ### About This Blog
 
@@ -14,4 +14,4 @@ This blog is built with Jekyll and hosted on GitHub Pages. It uses markdown for 
 
 ### Contact
 
-Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out to me at [liuchaoqun1234@gmail.com](mailto:liuchaoqun1234@gmail.com).

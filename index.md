@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to My Blog
+title: Recent Posts
 ---
 
-Welcome! This is my personal blog where I share my thoughts, experiences, and learnings. Feel free to explore the posts below.
+Welcome to Chaoqun's Log! Here I share my thoughts on technology, machine learning, and ideas worth exploring.

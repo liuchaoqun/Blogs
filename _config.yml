@@ -1,8 +1,8 @@
 # Site settings
-title: My Blog
-description: A simple blog powered by GitHub Pages
-author: Your Name
-email: your.email@example.com
+title: Chaoqun's Log
+description: A blog about technology, machine learning, and ideas
+author: Chaoqun
+email: liuchaoqun1234@gmail.com
 url: "https://liuchaoqun.github.io"
 baseurl: "/Blogs"
 
@@ -29,7 +29,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Your Name"
+      author: "Chaoqun"
 
 # Exclude from processing
 exclude:
