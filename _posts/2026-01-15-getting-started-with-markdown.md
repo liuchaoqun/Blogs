@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started with Markdown"
 date: 2026-01-15 10:00:00 +0000
-author: Your Name
+author: Chaoqun
 tags: [markdown, tutorial, writing]
 ---
 
